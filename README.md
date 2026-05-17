@@ -239,16 +239,11 @@ st.write(movie)
 
 🛠 Installation & Setup
 
-1️⃣ Clone Repository
-
-git clone https://github.com/Deep2621/Movies-Recommendation-Systerm.git
-cd Movies-Recommendation-Systerm
-
-2️⃣ Install Dependencies
+ Install Dependencies
 
 pip install -r requirements.txt
 
-3️⃣ Run the Web App
+ Run the Web App
 
 streamlit run app.py
 "
@@ -492,18 +487,4 @@ st.write(movie)
 
 ---
 
-🛠 Installation & Setup
-
-1️⃣ Clone Repository
-
-git clone https://github.com/Deep2621/Movies-Recommendation-Systerm.git
-cd Movies-Recommendation-Systerm
-
-2️⃣ Install Dependencies
-
-pip install -r requirements.txt
-
-3️⃣ Run the Web App
-
-streamlit run app.py
 
